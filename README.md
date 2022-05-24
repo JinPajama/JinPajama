@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JinPajama
-- 👀 I’m interested in nice car, driving and piano
+- 👀 I’m interested in nice car, driving and Texas Hold'em
 - ✴️ The reason i came here is watching developers and learn from them.
 - 🌱 I’m currently learning Android Studio, Node.js, Mathlab. learning C before.
 - 📫 How to reach me? here's my e-mail alpha99kr@gmail.com
