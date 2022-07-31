@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @JinPajama
+- ###👋 How's it going?
+
+<b> asdf </b>
 - 👀 I’m interested in nice car, driving and Texas Hold'em
 - ✴️ The reason i came here is watching developers and learn from them.
 - 🌱 I’m currently learning Android Studio, Node.js, Mathlab. learning C before.
