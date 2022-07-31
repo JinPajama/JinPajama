@@ -3,6 +3,7 @@
 - 👀 I’m interested in <i>nice car, driving</i> and <i>Texas Hold'em</i>
 - ✴️ The reason i came here is watching developers and learn from them.
 - 🌱 I’m currently learning Android Studio, Node.js, Mathlab. learning C before.
+- <!--(add HTML5, CSS, JS, WebFrontEnd, shield.io design)-->
 - 📫 How to reach me? here's my e-mail <a href="#" style='text-decoration: underline'>alpha99kr@gmail.com</a>
 
 <!---
