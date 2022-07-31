@@ -1,10 +1,9 @@
-- ###👋 How's it going?
+<h3>👋 How's it going?</h3>
 
-<b> asdf </b>
-- 👀 I’m interested in nice car, driving and Texas Hold'em
+- 👀 I’m interested in <i>nice car, driving</i> and <i>Texas Hold'em</i>
 - ✴️ The reason i came here is watching developers and learn from them.
 - 🌱 I’m currently learning Android Studio, Node.js, Mathlab. learning C before.
-- 📫 How to reach me? here's my e-mail alpha99kr@gmail.com
+- 📫 How to reach me? here's my e-mail <a href="#" style='text-decoration: underline'>alpha99kr@gmail.com</a>
 
 <!---
 JinPajama/JinPajama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
